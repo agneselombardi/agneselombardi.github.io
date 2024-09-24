@@ -6,8 +6,9 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-I'm a PhD student at the Department of Philology, Literature, and Linguistics of the University of Pisa and a member of the CoLing Lab. From November to April you can find me at UT Texas Austin as visiting scholar. 
-My supervisors are Alessandro Lenci and Domenica Romagno. 
+  I'm a PhD student at the Department of Philology, Literature, and Linguistics of the University of Pisa and a member of the CoLing Lab. 
+  From November to April you can find me at UT Texas Austin as visiting scholar.
+  My supervisors are Alessandro Lenci and Domenica Romagno. 
 
 # Build settings
 
