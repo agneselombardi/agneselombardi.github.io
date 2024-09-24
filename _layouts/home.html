@@ -37,21 +37,21 @@ layout: base
   <br />
 
   <!-- Publications Section -->
-  <h3>Publications</h3>
+  <!-- <h3>Publications</h3>
   {% assign publications = site.publications | sort: "date" | reverse %}
   <ul>
     {% for pub in publications limit:3 %}
       <li> {{ pub.authors }} ({{ pub.year }}). <em>{{ pub.title }}</em>. {{ pub.publication_short }}</li>
     {% endfor %}
-  </ul>
+  </ul> -->
 
   <!-- Link to All Publications -->
-  {% for tab in site.tabs %}
+  <!-- {% for tab in site.tabs %}
     {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
     {% if tab_name == "publications" %}
       <a href="{{ tab.url | relative_url }}" class="nav-link">See all publications</a>
     {% endif %}
-  {% endfor %}
+  {% endfor %} -->
 
   <br />
 
