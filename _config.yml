@@ -6,7 +6,7 @@ lang: en
 
 description: >
   I'm a PhD student at the Department of Philology, Literature, and Linguistics of the University of Pisa and a member of the CoLing Lab.
-  From November to April you can find me at UT Texas Austin as a visiting scholar.
+  Although from November to April you can find me at UT Texas Austin as a visiting scholar.
   My supervisors are Alessandro Lenci and Domenica Romagno.
 
 # Build settings
@@ -27,8 +27,8 @@ plugins:
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
-# header_pages:
-#   - index.md
+header_pages:
+  - index.md
 
 # Set to `true` to show excerpts on the homepage.
 # show_excerpts: false

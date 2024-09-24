@@ -7,3 +7,10 @@
 #
 layout: home
 ---
+
+## About Me
+
+I obtained my BA in Modern Literature in 2018 and my MA in Linguistics in 2021, both at the University of Pisa. After my graduation, I moved to Naples to work in a company as a mobile application developer.
+
+My hobbies are reading books, playing football, and cooking!
+
