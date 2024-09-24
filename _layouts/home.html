@@ -11,29 +11,30 @@ layout: base
   {%- endif -%}
 
   <br />
-    {%- if page.title -%}
+
+  {%- if page.title -%}
     <h2 class="About me">{{ page.list_title }}</h2>
       <div>My primary research objective is in the field of computational psycholinguistics. From a theoretical linguistic perspective, I’m interested in semantics and phenomena of interface both between semantics and morphosyntax and between semantics and pragmatics.
         From a computational point of view, my research focuses on the domain of NLP. Specifically, my PhD project investigates the processing of conversational implicatures in LLM both with tasks that require mentalizing (Theory of Mind, for instance) both with tasks that require pragmatic and semantic competences.
         My long-term goal is to create models that reproduce enriched representation of meaning: smaller models that enrich embeddings with probabilistic formal representations.
         Therefore, I’m interested to cognitive implication of computational models: I test speakers to create evaluation metrics for computational models.
-        Broadly, I’m interested in projects that can improve machine learning technique through better representations of semantic and pragmatic properties.
-        Additional interests: theories of language processing, neural symbolic network, grounding, pLoT, experimental pragmatics, mechanistic interpretability, explainability and interpretability.
+        Broadly, I’m interested in projects that can improve machine learning techniques through better representations of semantic and pragmatic properties.
+        Additional interests: theories of language processing, neural symbolic networks, grounding, pLoT, experimental pragmatics, mechanistic interpretability, explainability, and interpretability.
       </div>
-    {%- endif -%}
+  {%- endif -%}
+
   <br />
 
   {%- if page.title -%}
-  <h2 class="Research interests">{{ page.list_title }}</h2>
-    <div>I obtained my BA in Modern Literature in 2018 and my MA in Linguistics in 2021, both at the University of Pisa. After my graduation, I moved to Naples to work in a company as a mobile application developer.
-
+    <h2 class="Research interests">{{ page.list_title }}</h2>
+      <div>I obtained my BA in Modern Literature in 2018 and my MA in Linguistics in 2021, both at the University of Pisa. After my graduation, I moved to Naples to work in a company as a mobile application developer.
       My hobbies are reading books, playing football, and cooking!
-    </div>
+      </div>
   {%- endif -%}
 
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
+  <ul class="post-list">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
@@ -45,28 +46,25 @@ layout: base
           {{ post.excerpt }}
         {%- endif -%}
       </li>
-      {%- endfor -%}
-    </ul>
+    {%- endfor -%}
+  </ul>
 
-
-    {% if site.paginate %}
-      <div class="pager">
-        <ul class="pagination">
-        {%- if paginator.previous_page %}
-          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-          <li><div class="current-page">{{ paginator.page }}</div></li>
-        {%- if paginator.next_page %}
-          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-        </ul>
-      </div>
-    {%- endif %}
-
-  {%- endif -%}
+  {% if site.paginate %}
+    <div class="pager">
+      <ul class="pagination">
+      {%- if paginator.previous_page %}
+        <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
+      {%- else %}
+        <li><div class="pager-edge">•</div></li>
+      {%- endif %}
+        <li><div class="current-page">{{ paginator.page }}</div></li>
+      {%- if paginator.next_page %}
+        <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+      {%- else %}
+        <li><div class="pager-edge">•</div></li>
+      {%- endif %}
+      </ul>
+    </div>
+  {% endif %}
 
 </div>
