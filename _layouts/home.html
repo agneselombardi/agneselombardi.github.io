@@ -4,7 +4,9 @@ layout: base
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <h1 class="About me">{{ page.title }}</h1>
+    <div>I'm a PhD student at the Department of Philology, Literature, and Linguistics of the University of Pisa and a member of the CoLing Lab. Although from November to April you can find me at UT Texas Austin as a visiting scholar. Supervised by Alessandro Lenci and Domenica Romagno (while in Pisa) and by Kyle Mahowald (while in Austin).
+    </div>
   {%- endif -%}
 
   {{ content }}
@@ -19,7 +21,14 @@ layout: base
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+      <h2 class="Research interests">{{ page.list_title }}</h2>
+      <div>My primary research objective is in the field of computational psycholinguistics. From a theoretical linguistic perspective, I’m interested in semantics and phenomena of interface both between semantics and morphosyntax and between semantics and pragmatics.
+        From a computational point of view, my research focuses on the domain of NLP. Specifically, my PhD project investigates the processing of conversational implicatures in LLM both with tasks that require mentalizing (Theory of Mind, for instance) both with tasks that require pragmatic and semantic competences.
+        My long-term goal is to create models that reproduce enriched representation of meaning: smaller models that enrich embeddings with probabilistic formal representations.
+        Therefore, I’m interested to cognitive implication of computational models: I test speakers to create evaluation metrics for computational models.
+        Broadly, I’m interested in projects that can improve machine learning technique through better representations of semantic and pragmatic properties.
+        Additional interests: theories of language processing, neural symbolic network, grounding, pLoT, experimental pragmatics, mechanistic interpretability, explainability and interpretability.
+      </div>
     {%- endif -%}
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -37,6 +46,7 @@ layout: base
       </li>
       {%- endfor -%}
     </ul>
+
 
     {% if site.paginate %}
       <div class="pager">
