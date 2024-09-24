@@ -9,7 +9,7 @@ order: 2
 {% assign groups = site.publications  | group_by_exp: "publications",'publications.year' | reverse %}
 
 {% for group in groups %}
-  <h3>{{ group.name }}</h3>
+  <h1>{{ group.name }}</h1z>
   <div>
       {% assign pubs = group.items | sort: "publications.date" | reverse %}
 
