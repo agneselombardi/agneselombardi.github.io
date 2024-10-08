@@ -36,16 +36,16 @@ layout: base
 
   <br />
 
-  <!-- Publications Section -->
+  <!-- Publications Section
   <h3>Publications</h3>
-  {% assign publications = site.publications | sort: "date" | reverse %}
+  {% assign publications = site.publication | sort: "date" | reverse %}
   <ul>
     {% for pub in publications limit:3 %}
       <li> {{ pub.authors }} ({{ pub.year }}). <em>{{ pub.title }}</em>. {{ pub.publication_short }}</li>
     {% endfor %}
   </ul>
 
-  <!-- Link to All Publications -->
+  Link to All Publications
   {% for tab in site.tabs %}
     {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
     {% if tab_name == "publications" %}
@@ -54,7 +54,7 @@ layout: base
     {% endif %}
   {% endfor %}
 
-  <br />
+  <br /> -->
 
   <!-- Blog Posts Section -->
   <ul class="post-list">
