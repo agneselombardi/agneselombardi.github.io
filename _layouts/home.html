@@ -3,10 +3,10 @@ layout: base
 ---
 
 <div class="home">
-  <!-- First Section: No Title -->
+  <h1></h1>
   <div>
     I'm a PhD student at the Department of Philology, Literature, and Linguistics of the University of Pisa and a member of the CoLing Lab. 
-    From November to April you can find me at the University of Texas (Austin) as Visiting Scholar.
+    From November to April you can find me at the University of Texas at Austin as visiting scholar.
   </div>
   <div>
     Supervised by Alessandro Lenci and Domenica Romagno (while in Pisa) and by Kyle Mahowald (while in Austin).
@@ -49,7 +49,8 @@ layout: base
   {% for tab in site.tabs %}
     {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
     {% if tab_name == "publications" %}
-      <a href="{{ tab.url | relative_url }}" class="nav-link">See all publications</a>
+      <a href="{{ tab.url | relative_url }}" class="nav-link">
+        See all publications</a>
     {% endif %}
   {% endfor %}
 
