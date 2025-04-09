@@ -50,8 +50,8 @@ interests:
 education:
   - area: PhD Computational Psycholinguistics
     institution: University of Pisa
-    date_start: 2022
-    date_end: 2026 (expected)
+    date_start: 2022-11-02
+    date_end: ''
     summary: |
       I'm a PhD student at the Department of Philology, Literature, and Linguistics of the University of Pisa and a member of the CoLing Lab. 
       My supervisors are Alessandro Lenci and Domenica Romagno. 
