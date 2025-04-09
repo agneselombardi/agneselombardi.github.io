@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Agnese Lombardi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: /aɲˈɲe.ze/ as in gnocchi
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Agnese
+last_name: Lombardi
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌈🧠🍕
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,70 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD in Computational Psycholinguistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Pisa (CoLing Lab)
+    url: https://colinglab.fileli.unipi.it/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:agnese.lombardi@phd.unipi.it'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/AgneseLombardi
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/agneselombardi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://it.linkedin.com/in/agnese-lombardi-9706a5225
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=cDhHLS4AAAAJ&hl=it
 
 interests:
-  - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Psycholinguistics
+  - Artificial Intelligence
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computational Psycholinguistics
+    institution: University of Pisa
+    date_start: 2022
+    date_end: 2026 (expected)
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      I'm a PhD student at the Department of Philology, Literature, and Linguistics of the University of Pisa and a member of the CoLing Lab. 
+      My supervisors are Alessandro Lenci and Domenica Romagno. 
+      Currently visiting UT Austin (advised by Kyle Mahowald).
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: MA in Linguistics
+    institution: University of Pisa
+    date_start: 2019-01-01
+    date_end: 2021-06-12
     summary: |
-      GPA: 3.8/4.0
+      Thesis: Agentivity and telicity in GilBERTo, with cognitive implications.
+      Supervisor: Alessandro Lenci
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc in Humanities
+    institution: University of Pisa
+    date_start: 2015-09-01
+    date_end: 2018-12-15
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     Thesis: The prepositional accusative in the dialect of Guardia Sanframondi (Southern Italy)
+     Supervisor: Domenica Romagno
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Frontend developer
+    company_name: Accenture
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2021-11-01
+    date_end: 2022-09-01
+    summary: ''
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,13 +92,13 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
         percent: 100
+        icon: code-bracket
+      - name: Java
+        description: ''
+        percent: 20
         icon: chart-bar
-      - name: SQL
+      - name: SwiftUI
         description: ''
         percent: 40
         icon: circle-stack
@@ -128,59 +106,70 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: reading
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: ''
+        icon: book
+      - name: football
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: ''
+        icon: soccer
+      - name: traveling
         description: ''
-        percent: 80
-        icon: camera
+        percent: ''
+        icon: plane
+      - name: cooking
+        description: ''
+        percent: ''
+        icon: chef
 
 languages:
-  - name: English
+  - name: Italian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 80
+  - name: French
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+# awards:
+#   - title: Neural Networks and Deep Learning
+#     url: https://www.coursera.org/learn/neural-networks-deep-learning
+#     date: '2023-11-25'
+#     awarder: Coursera
+#     icon: coursera
+#     summary: |
+#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+#   - title: Blockchain Fundamentals
+#     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#     date: '2023-07-01'
+#     awarder: edX
+#     icon: edx
+#     summary: |
+#       Learned:
+#       - Synthesize your own blockchain solutions
+#       - Gain an in-depth understanding of the specific mechanics of Bitcoin
+#       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+#   - title: 'Object-Oriented Programming in R'
+#     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#     certificate_url: https://www.datacamp.com
+#     date: '2023-01-21'
+#     awarder: datacamp
+#     icon: datacamp
+#     summary: |
+#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I earned my BA in Modern Literature (2018) and MA in Linguistics (2021) from the University of Pisa. After graduating, I moved to Naples to work as a mobile application developer, but later left to pursue my PhD (2022).
+I enjoy reading, playing football, traveling and cooking—but above all, I love pizza! Proudly from Campania (South of Italy) and even prouder to be a dialect speaker.
+
+<!-- ## Research Interests
+
+My primary research focus lies in computational psycholinguistics, with a strong theoretical foundation in semanticsand its interface with both morphosyntax and pragmatics. From a computational perspective, I investigate Theory of Mind (ToM)-like abilities in large language models (LLMs), while also exploring other aspects of pragmatic competence.
+I am deeply engaged in the ongoing debate on cognitive and emerging abilities in LLMs, advocating for the integration of cognitive science, psycholinguistics, and computational linguistics to advance all three fields. I believe that insights from cognitive science and psycholinguistics can help develop more fine-grained computational analyses of language models.
+My broader interests include language processing theories, neural-symbolic networks, grounding, pLoT, experimental pragmatics, mechanistic interpretability, and LLM interpretability. -->
