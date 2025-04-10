@@ -11,7 +11,7 @@ last_name: Lombardi
 
 # Status emoji
 status:
-  icon: 🌈🧠🍕
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -53,9 +53,9 @@ education:
     date_start: 2022-11-02
     date_end: ''
     summary: |
-      I'm a PhD student at the Department of Philology, Literature, and Linguistics of the University of Pisa and a member of the CoLing Lab. 
-      My supervisors are Alessandro Lenci and Domenica Romagno. 
-      Currently visiting UT Austin (advised by Kyle Mahowald).
+      Thesis: Theory of Mind in Large Language Models.
+      Supervisors: Alessandro Lenci and Domenica Romagno. 
+      
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -165,7 +165,14 @@ languages:
 
 ## About Me
 
+I'm a PhD student at the Department of Philology, Literature, and Linguistics of the University of Pisa and a member of the CoLing Lab. 
+
+My supervisors are Alessandro Lenci and Domenica Romagno.
+
+Currently visiting UT Austin (advised by Kyle Mahowald).
+
 I earned my BA in Modern Literature (2018) and MA in Linguistics (2021) from the University of Pisa. After graduating, I moved to Naples to work as a mobile application developer, but later left to pursue my PhD (2022).
+
 I enjoy reading, playing football, traveling and cooking—but above all, I love pizza! Proudly from Campania (South of Italy) and even prouder to be a dialect speaker.
 
 <!-- ## Research Interests
