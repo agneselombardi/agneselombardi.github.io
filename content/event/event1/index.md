@@ -17,7 +17,7 @@ abstract: 'Large Language Models (LLMs) have shown strong performance on natural
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-02-21'
-date_end: ''
+# date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://www.iusspavia.it/sites/default/files/styles/paragrafo/public/2024-02/xprag_pagina%20interna.png?h=bdea888b&itok=RYo9WVmw)'
+  caption: ''
   focal_point: Right
 
 #links:
@@ -51,7 +51,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: "/workspaces/agneselombardi.github.io/static/uploads/Pavia_Xprag2024.pdf"
 url_slides: /workspaces/agneselombardi.github.io/static/uploads/Pavia_Xprag2024.pdf
 
 # Projects (optional).

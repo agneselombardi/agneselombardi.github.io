@@ -35,24 +35,24 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My primary research focus lies in computational psycholinguistics, with a strong theoretical foundation in semanticsand its interface with both morphosyntax and pragmatics. From a computational perspective, I investigate Theory of Mind (ToM)-like abilities in large language models (LLMs), while also exploring other aspects of pragmatic competence.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am deeply engaged in the ongoing debate on cognitive and emerging abilities in LLMs, advocating for the integration of cognitive science, psycholinguistics, and computational linguistics to advance all three fields. I believe that insights from cognitive science and psycholinguistics can help develop more fine-grained computational analyses of language models.
+
+        My broader interests include language processing theories, neural-symbolic networks, grounding, pLoT, experimental pragmatics, mechanistic interpretability, and LLM interpretability.
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: collection
     content:
       title: Recent Publications

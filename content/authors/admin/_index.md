@@ -53,7 +53,7 @@ education:
     date_start: 2022-11-02
     date_end: ''
     summary: |
-      Thesis: Theory of Mind in Large Language Models.
+      Thesis: Theory of Mind in Large Language Models. |
       Supervisors: Alessandro Lenci and Domenica Romagno. 
       
     # button:
@@ -64,7 +64,7 @@ education:
     date_start: 2019-01-01
     date_end: 2021-06-12
     summary: |
-      Thesis: Agentivity and telicity in GilBERTo, with cognitive implications.
+      Thesis: Agentivity and telicity in GilBERTo, with cognitive implications. |
       Supervisor: Alessandro Lenci
 
   - area: BSc in Humanities
@@ -72,7 +72,7 @@ education:
     date_start: 2015-09-01
     date_end: 2018-12-15
     summary: |
-     Thesis: The prepositional accusative in the dialect of Guardia Sanframondi (Southern Italy)
+     Thesis: The prepositional accusative in the dialect of Guardia Sanframondi (Southern Italy). |
      Supervisor: Domenica Romagno
 
 work:
