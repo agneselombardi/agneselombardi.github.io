@@ -1,10 +1,10 @@
 ---
-title: Large Language Models and Theory of Mind. An analysis with Indirect Speech Acts.
+title: Large Language Models and Theory of Mind. How to test it through Conversational Implicatures.
 
-event:  Th-XPRAG – IGG49 Pre-conference Workshop
+event:  Formae Mentis. Percorsi di studio tra letteratura e linguistica
 event_url: ''
 
-location: IUSS Pavia, Linguistic Department
+location: University of Pisa
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,11 +12,11 @@ location: IUSS Pavia, Linguistic Department
 #   postcode: '94305'
 #   country: United States
 
-abstract: 'Large Language Models (LLMs) have shown strong performance on natural language tasks, sparking claims that they may possess Theory-of-Mind (ToM) abilities. Since ToM is often considered essential for pragmatic understanding, tasks like Indirect Speech Acts (ISAs)—which rely on interpreting context and implied meaning—are used to assess this. However, some argue that LLMs might succeed in these tasks through pattern recognition or idiomatic knowledge rather than true mentalizing. To explore this, the authors introduce a new benchmark based on False-Belief Tasks, designed to test whether LLMs (and humans) adjust their interpretations based on the speaker’s beliefs, thereby revealing whether LLMs’ success truly reflects ToM capabilities or just surface-level associations.'
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-02-21'
+date: '2023-11-28'
 # date_end: ''
 all_day: false
 
@@ -51,8 +51,8 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "/workspaces/agneselombardi.github.io/static/uploads/Pavia_Xprag2024.pdf"
-url_slides: https://unipiit-my.sharepoint.com/:p:/g/personal/a_lombardi19_studenti_unipi_it/EaMv0x5POKNCv5XpZoVjcyEBtJcprx7WP4Bbv4UydlV2yg?e=sqHEJf
+slides: ""
+url_slides: https://unipiit-my.sharepoint.com/:p:/g/personal/a_lombardi19_studenti_unipi_it/EcRHibfPXNpLr2cqjdsnn_EBvD-Qu4vRg_y9D77r99ghXg?e=yznDp8
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

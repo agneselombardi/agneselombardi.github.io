@@ -53,7 +53,8 @@ education:
     date_start: 2022-11-02
     date_end: ''
     summary: |
-      Thesis: Theory of Mind in Large Language Models. |
+      Thesis: Theory of Mind in Large Language Models.
+      
       Supervisors: Alessandro Lenci and Domenica Romagno. 
       
     # button:
@@ -64,7 +65,8 @@ education:
     date_start: 2019-01-01
     date_end: 2021-06-12
     summary: |
-      Thesis: Agentivity and telicity in GilBERTo, with cognitive implications. |
+      Thesis: Agentivity and telicity in GilBERTo, with cognitive implications.
+
       Supervisor: Alessandro Lenci
 
   - area: BSc in Humanities
@@ -72,7 +74,8 @@ education:
     date_start: 2015-09-01
     date_end: 2018-12-15
     summary: |
-     Thesis: The prepositional accusative in the dialect of Guardia Sanframondi (Southern Italy). |
+     Thesis: The prepositional accusative in the dialect of Guardia Sanframondi (Southern Italy).
+
      Supervisor: Domenica Romagno
 
 work:
@@ -174,9 +177,3 @@ Currently visiting UT Austin (advised by Kyle Mahowald).
 I earned my BA in Modern Literature (2018) and MA in Linguistics (2021) from the University of Pisa. After graduating, I moved to Naples to work as a mobile application developer, but later left to pursue my PhD (2022).
 
 I enjoy reading, playing football, traveling and cooking—but above all, I love pizza! Proudly from Campania (South of Italy) and even prouder to be a dialect speaker.
-
-<!-- ## Research Interests
-
-My primary research focus lies in computational psycholinguistics, with a strong theoretical foundation in semanticsand its interface with both morphosyntax and pragmatics. From a computational perspective, I investigate Theory of Mind (ToM)-like abilities in large language models (LLMs), while also exploring other aspects of pragmatic competence.
-I am deeply engaged in the ongoing debate on cognitive and emerging abilities in LLMs, advocating for the integration of cognitive science, psycholinguistics, and computational linguistics to advance all three fields. I believe that insights from cognitive science and psycholinguistics can help develop more fine-grained computational analyses of language models.
-My broader interests include language processing theories, neural-symbolic networks, grounding, pLoT, experimental pragmatics, mechanistic interpretability, and LLM interpretability. -->
