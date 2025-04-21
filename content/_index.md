@@ -42,27 +42,27 @@ sections:
         My broader interests include language processing theories, neural-symbolic networks, grounding, pLoT, experimental pragmatics, mechanistic interpretability, and LLM interpretability.
     design:
       columns: '1'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
   - block: collection
+    id: papers
     content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+       title: Featured Publications
+       filters:
+         folders:
+           - publication
+         featured_only: true
     design:
-      view: citation
+       view: article-grid
+       columns: 2
+#  - block: collection
+#    content:
+#      title: Recent Publications
+#     text: ""
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: false
+#    design:
+#      view: citation
   - block: collection
     id: talks
     content:
