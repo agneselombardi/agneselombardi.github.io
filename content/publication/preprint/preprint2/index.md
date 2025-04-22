@@ -1,5 +1,5 @@
 ---
-title: "What Do You Mean? Exploring the Alleged Theory of Mind Abilities of Large Language Models"
+title: "Doing Things with Words: Rethinking Theory of Mind Simulation in Large Language Models"
 authors:
 - admin
 - Alessandro Lenci
@@ -18,7 +18,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: This study explores the capacity of Large Language Models (LLMs) to perform tasks requiring Theory of Mind (ToM), a critical component of pragmatic language understanding. Although previous work suggests that LLMs may exhibit emergent ToM abilities, this research examines whether such capabilities genuinely involve reasoning about beliefs or merely reflect the reliance on shallow statistical cues. Through a series of controlled experiments featuring indirect speech acts and verbal irony, we assess how belief contexts influence LLM interpretations. The results reveal that, although LLMs occasionally succeed in decoding communicative intentions, their performance is not attributable to genuine ToM reasoning. Instead, models often depend on conventionalized linguistic cues rather than engaging in true mentalizing. This work underscores the limitations of LLMs in simulating human-like ToM and offers insight into their interpretive biases, contributing to a deeper understanding of their linguistic and cognitive capabilities.
+abstract: Language is fundamental to human cooperation, facilitating not only the exchange of information but also the coordination of actions through shared interpretations of situational contexts. This study explores whether the Generative Agent-Based Model (GABM) Concordia can effectively model Theory of Mind (ToM) within simulated real-world environments. Specifically, we assess whether this framework successfully isolates mentalizing abilities and whether LLMs can perform tasks by making genuine inferences from social context, rather than relying on linguistic memorization. Our findings reveal a critical limitation: LLMs frequently fail to select actions based on belief attribution, suggesting that their apparent ToM-like abilities observed in previous studies may stem from pattern recognition rather than true reasoning. Additionally, models struggle to generate coherent causal effects from agent actions, exposing difficulties in processing complex social interactions. These results challenge the assumption that emergent ToM-like capabilities in LLMs reflect genuine mental state attribution and highlight the need for more rigorous, action-based evaluation frameworks.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -26,6 +26,7 @@ summary: ""
 tags:
 - Large Language Models
 - Theory of Mind
+- ABM
 
 featured: true
 

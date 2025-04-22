@@ -112,19 +112,19 @@ skills:
       - name: reading
         description: ''
         percent: ''
-        icon: book
+        icon: ''
       - name: football
         description: ''
         percent: ''
-        icon: soccer
+        icon: ''
       - name: traveling
         description: ''
         percent: ''
-        icon: plane
+        icon: ''
       - name: cooking
         description: ''
         percent: ''
-        icon: chef
+        icon: ''
 
 languages:
   - name: Italian
