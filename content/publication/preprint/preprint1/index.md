@@ -3,7 +3,7 @@ title: "What Do You Mean? Exploring the Alleged Theory of Mind Abilities of Larg
 authors:
 - admin
 - Alessandro Lenci
-date: ""
+date: 2025-04-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -34,12 +34,12 @@ links:
   url: ''
 url_pdf: ''
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: '#'
-url_video: '#'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
