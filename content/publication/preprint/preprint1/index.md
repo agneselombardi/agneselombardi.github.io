@@ -30,7 +30,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Preprint
   url: ''
 url_pdf: ''
 url_code: ''
