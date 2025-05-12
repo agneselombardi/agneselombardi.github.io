@@ -24,7 +24,9 @@ role: PhD in Computational Psycholinguistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Pisa (CoLing Lab)
+  - name: University of Pisa
+    url: https://dilles.fileli.unipi.it/
+  - name: CoLing Laboratory
     url: https://colinglab.fileli.unipi.it/
 
 # Social network links
@@ -170,9 +172,7 @@ languages:
 
 I'm a PhD student at the Department of Philology, Literature, and Linguistics of the University of Pisa and a member of the CoLing Lab. 
 
-My supervisors are Alessandro Lenci and Domenica Romagno.
-
-Currently visiting UT Austin (advised by Kyle Mahowald).
+My supervisors are Alessandro Lenci and Domenica Romagno. I've spent a period at University of Texas at Austin advised by Kyle Mahowald.
 
 I earned my BA in Modern Literature (2018) and MA in Linguistics (2021) from the University of Pisa. After graduating, I moved to Naples to work as a mobile application developer, but later left to pursue my PhD (2022).
 
