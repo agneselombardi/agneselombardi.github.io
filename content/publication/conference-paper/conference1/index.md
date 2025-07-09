@@ -13,7 +13,7 @@ authors:
 
 
 date: '2021-07-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.4000/books.aaccademia.10703'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: ''
@@ -43,7 +43,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: '[Clic-it_2021.pdf](https://github.com/agneselombardi/agneselombardi.github.io/blob/4f6812c8b358e619fe80f1a8f9bbec3bb20303b9/content/publication/conference-paper/conference1/Clic-it_2021.pdf)'
 url_code: ''
 url_dataset: ''
 url_poster: ''
