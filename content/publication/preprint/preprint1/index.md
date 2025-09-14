@@ -31,7 +31,7 @@ featured: true
 
 links:
 - name: Preprint
-  url: '/workspaces/agneselombardi.github.io/static/uploads/TACL_submission-7 2.pdf'
+  url: 'https://unipiit-my.sharepoint.com/:b:/g/personal/a_lombardi19_studenti_unipi_it/EaNCDedBxMdBkcqLN3rjLD8BDcRa8gvMRnNQKyLLcK8llQ?e=iyHu0r'
 url_pdf: ''
 url_code: ''
 url_dataset: ''

@@ -12,7 +12,7 @@ authors:
 #author_notes:
 
 
-date: '2025-09-24T00:00:00Z'
+date: '2025-09-14T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -43,7 +43,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'static/uploads/CLiC_it_2025__Concordia-2.pdf'
+url_pdf: 'https://unipiit-my.sharepoint.com/:b:/g/personal/a_lombardi19_studenti_unipi_it/ERNMh9jc82FKuDj9SDC8NiwBvkaB0mhZPZFwKYnigvLPlw?e=lWRqbN'
 url_code: 'https://github.com/agneselombardi/Concordia_ToM'
 url_dataset: ''
 url_poster: ''
