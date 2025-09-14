@@ -1,6 +1,6 @@
 ---
 title: Introduction to Computational Linguistics for Non-Linguists (Italian Course)
-summary: A beginner-friendly course in computational linguistics, designed for students without a background in linguistics.
+summary: A beginner-friendly mini course in computational linguistics, designed for students without a background in linguistics.
 date: 2025-07-28
 type: docs
 math: false
@@ -15,7 +15,7 @@ image:
 
 Welcome to the course **"Introduction to Computational Linguistics for Non-Linguists"** (taught in Italian)!
 
-This course is designed for undergraduate students with little or no background in linguistics. It introduces key concepts in computational linguistics in an accessible, engaging way — mixing slides, cultural references, and hands-on examples.
+This short course is designed for students with little or no background in linguistics. It introduces key concepts in computational linguistics in an accessible, engaging way — mixing slides, cultural references, and hands-on examples.
 
 ---
 
@@ -63,8 +63,38 @@ This lesson explores what it means to have linguistic knowledge from both explic
 -->
 
 ---
+
+### 📖 Lesson 5 - *Data Analysis*
+**Date:** July 30, 2025
+**Description:**
+This lesson introduces the practical workflow of building and evaluating models for emotion detection in text. It starts by explaining the role of annotated data (gold standard) for both training and evaluation, and contrasts it with automatically derived labels (silver standard). The lecture emphasizes the importance of separating training, validation, and test data to prevent overfitting, and introduces cross-validation as a robust evaluation method.
+The lesson then explores how large language models can be fine-tuned for specific tasks, and presents key evaluation metrics: accuracy, baseline comparisons, precision, recall, and F-score, with attention to class imbalance. It extends to regression tasks, introducing mean squared error (MSE) as a measure of prediction quality. Finally, the lecture discusses qualitative error analysis, feature contributions, and the importance of reproducibility in research, highlighting differences between supervised and unsupervised approaches.
+
+👉 [📑 View the slides] (https://unipiit-my.sharepoint.com/:p:/g/personal/a_lombardi19_studenti_unipi_it/Ebtkgv4IDeBGoxKngsJzpJAB5lheu66In1pj2c3ac3G10w?e=rWlIsa&nav=eyJzSWQiOjI3MiwiY0lkIjozMjk5NTMzNTY5fQ)
+
+---
+
+### 📖 Lesson 6 - *Case Study*
+**Date:** July 31, 2025
+**Description:**
+This lesson introduces bleaching for gender prediction in text, an approach that replaces lexical information with abstract features (frequency, shape, vowel/consonant patterns, punctuation). Unlike lexical models, which overfit to language and topic, bleached models generalize better across languages and perform comparably to humans when lexical cues are unavailable.
+The lecture covers experimental results with lexical, bleached, and multilingual models, discusses accuracy as the main evaluation metric, and explains Support Vector Machines (SVMs) as the chosen algorithm. It concludes with reflections on limitations such as bias, misinformation, and hallucination in computational profiling.
+
+👉 [📑 View the slides] (https://unipiit-my.sharepoint.com/:p:/g/personal/a_lombardi19_studenti_unipi_it/EV9SFsSrx-VFjAW9wfkVDfMBC3t31TqpECGdaGujuoGBVA?e=zNpfT6&nav=eyJzSWQiOjI1NiwiY0lkIjoxMTQwOTY4MDgwfQ)
+
+---
+
+### 📖 Lesson 7 - *Support Vector Machine*
+**Date:** July 31, 2025
+
+👉 [📑 View the slides] (https://unipiit-my.sharepoint.com/:p:/g/personal/a_lombardi19_studenti_unipi_it/EXiAi8ys0tBImlJv88UQltsBk0f1RJpWMpVAEc2bzxdxHA?e=B0Z1Gd&nav=eyJzSWQiOjI1OCwiY0lkIjoyMjc0NTMxMzE3fQ)
+
+---
+
 ## ℹ️ Course Information
 
 - **Language:** Italian  
 - **Target audience:** Beginners, non-linguists  
 - **Structure:** Short slide-based lessons  
+
+

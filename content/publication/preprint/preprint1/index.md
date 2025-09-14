@@ -18,7 +18,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: This study explores the capacity of Large Language Models (LLMs) to perform tasks requiring Theory of Mind (ToM), a critical component of pragmatic language understanding. Although previous work suggests that LLMs may exhibit emergent ToM abilities, this research examines whether such capabilities genuinely involve reasoning about beliefs or merely reflect the reliance on shallow statistical cues. Through a series of controlled experiments featuring indirect speech acts and verbal irony, we assess how belief contexts influence LLM interpretations. The results reveal that, although LLMs occasionally succeed in decoding communicative intentions, their performance is not attributable to genuine ToM reasoning. Instead, models often depend on conventionalized linguistic cues rather than engaging in true mentalizing. This work underscores the limitations of LLMs in simulating human-like ToM and offers insight into their interpretive biases, contributing to a deeper understanding of their linguistic and cognitive capabilities.
+abstract: This study explores the capacity of Large Language Models (LLMs) to perform tasks requiring Theory of Mind (ToM), a critical component of pragmatic language understanding. Although previous work suggests that LLMs may exhibit emergent ToM abilities, this research examines whether such capabilities genuinely involve reasoning about beliefs or merely reflect the reliance on shallow statistical cues. Through a series of controlled experiments featuring indirect speech acts and verbal irony, we assess how belief contexts influence LLM interpretations. The results reveal that, although LLMs occasionally succeed in decoding communicative intentions, their performance is not attributable to genuine ToM reasoning. This work underscores the limitations of LLMs in simulating human-like ToM and offers insight into their interpretive biases, contributing to a deeper understanding of their linguistic capabilities.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -31,7 +31,7 @@ featured: true
 
 links:
 - name: Preprint
-  url: ''
+  url: '/workspaces/agneselombardi.github.io/static/uploads/TACL_submission-7 2.pdf'
 url_pdf: ''
 url_code: ''
 url_dataset: ''

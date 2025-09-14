@@ -1,5 +1,5 @@
 ---
-title: 'Agentività e telicità in GilBERTo: Implicazioni cognitive.'
+title: 'Doing Things with Words: Rethinking Theory of Mind Simulation in Large Language Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,8 +12,8 @@ authors:
 #author_notes:
 
 
-date: '2021-07-01T00:00:00Z'
-doi: 'https://doi.org/10.4000/books.aaccademia.10703'
+date: '2025-09-24T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: ''
@@ -24,16 +24,16 @@ doi: 'https://doi.org/10.4000/books.aaccademia.10703'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings for Eighth Italian Conference on Computational Linguistics - CLiC-it 2021*
-publication_short: In *CliC-it 2021*
+publication: In *Proceedings for Eighteen Italian Conference on Computational Linguistics - CLiC-it 2025*
+publication_short: In *CliC-it 2025*
 
-abstract: The goal of this study is to investigate whether a Transformer-based neural language model infers lexical semantics and use this information for the completion of morphosyntactic patterns. The semantic properties considered are telicity (also combined with definiteness) and agentivity. Both act at the interface between semantics and morphosyntax - they are semantically determined and syntactically encoded. The tasks were submitted to both the computational model and a group of Italian native speakers. The comparison between the two groups of data allows us to investigate to what extent neural language models capture significant aspects of human semantic competence.
+abstract: Language is fundamental to human cooperation, facilitating not only the exchange of information but also the coordination of actions through shared interpretations of situational contexts. This study explores whether the Generative Agent-Based Model (GABM) Concordia can effectively model Theory of Mind (ToM) within simulated real-world environments. Specifically, we assess whether this framework successfully simulates ToM abilities and whether GPT-4 can perform tasks by making genuine inferences from social context, rather than relying on linguistic memorization. Our findings reveal a critical limitation: GPT-4 frequently fails to select actions based on belief attribution, suggesting that apparent ToM-like abilities observed in previous studies may stem from shallow statistical associations rather than true reasoning. Additionally, the model struggles to generate coherent causal effects from agent actions, exposing difficulties in processing complex social interactions. These results challenge current statements about emergent ToM-like capabilities in LLMs and highlight the need for more rigorous, action-based evaluation frameworks.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - BERT models
+  - Theory of Mind, Concordia, GABM
 
 # Display this page in the Featured widget?
 featured: false
@@ -43,12 +43,12 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'static/uploads/Clic-it_2021.pdf'
-url_code: ''
+url_pdf: 'static/uploads/CLiC_it_2025__Concordia-2.pdf'
+url_code: 'https://github.com/agneselombardi/Concordia_ToM'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://unipiit-my.sharepoint.com/:p:/g/personal/a_lombardi19_studenti_unipi_it/EaP7YdWaVyhLgi3shfr0YAsB9U2QIWBn-Sn_Kx_3_8JtFw?e=JDiVuu&nav=eyJzSWQiOjI1NiwiY0lkIjozNzc3NzA5NDF9'
 url_source: ''
 url_video: ''
 

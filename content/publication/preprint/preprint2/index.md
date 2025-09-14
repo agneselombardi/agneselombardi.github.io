@@ -1,5 +1,5 @@
 ---
-title: "Doing Things with Words: Rethinking Theory of Mind Simulation in Large Language Models"
+title: "Evaluating Conversational Implicatures in Large Language Models"
 authors:
 - admin
 - Alessandro Lenci
@@ -7,7 +7,7 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-04-01"
+publishDate: "2026-01-01"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,15 +18,15 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Language is fundamental to human cooperation, facilitating not only the exchange of information but also the coordination of actions through shared interpretations of situational contexts. This study explores whether the Generative Agent-Based Model (GABM) Concordia can effectively model Theory of Mind (ToM) within simulated real-world environments. Specifically, we assess whether this framework successfully isolates mentalizing abilities and whether LLMs can perform tasks by making genuine inferences from social context, rather than relying on linguistic memorization. Our findings reveal a critical limitation, LLMs frequently fail to select actions based on belief attribution, suggesting that their apparent ToM-like abilities observed in previous studies may stem from pattern recognition rather than true reasoning. Additionally, models struggle to generate coherent causal effects from agent actions, exposing difficulties in processing complex social interactions. These results challenge the assumption that emergent ToM-like capabilities in LLMs reflect genuine mental state attribution and highlight the need for more rigorous, action-based evaluation frameworks.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags:
 - Large Language Models
-- Theory of Mind
-- ABM
+- Conversational Implicatures
+- Pragmatics
 
 featured: true
 
