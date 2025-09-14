@@ -1,5 +1,5 @@
 ---
-title: Doing Things with Words: Rethinking Theory of Mind Simulation in Large Language Models
+title: "Doing Things with Words: Rethinking Theory of Mind Simulation in Large Language Models"
 
 event: Clic-it 2025
 event_url: 'https://clic2025.unica.it/'
