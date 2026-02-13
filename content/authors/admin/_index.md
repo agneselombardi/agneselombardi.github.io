@@ -170,9 +170,12 @@ languages:
 
 ## About Me
 
-I'm a PhD student at the Department of Philology, Literature, and Linguistics of the University of Pisa and a member of the CoLing Lab. 
+I am currently a researcher at IUSS Pavia and a member of the NepLab (PI: Valentina Bambini).
 
-My supervisors are Alessandro Lenci and Domenica Romagno. I've spent a period at University of Texas at Austin advised by Kyle Mahowald.
+I completed my PhD at the Department of Philology, Literature, and Linguistics at the University of Pisa, where I was also a member of the CoLing Lab (I expect to be awarded the PhD title in May). 
+My doctoral research was supervised by Alessandro Lenci and Domenica Romagno. 
+
+During my PhD, I was a visiting researcher at the University of Texas at Austin, working under the supervision of Kyle Mahowald.
 
 I earned my BA in Modern Literature (2018) and MA in Linguistics (2021) from the University of Pisa. After graduating, I moved to Naples to work as a mobile application developer, but later left to pursue my PhD (2022).
 

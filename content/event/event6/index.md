@@ -96,8 +96,8 @@ url_pdf: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides: ""
-# url_slides: https://unipiit-my.sharepoint.com/:p:/g/personal/a_lombardi19_studenti_unipi_it/EaP7YdWaVyhLgi3shfr0YAsB9U2QIWBn-Sn_Kx_3_8JtFw?e=JDiVuu&nav=eyJzSWQiOjI1NiwiY0lkIjozNzc3NzA5NDF9
+slides: ""
+url_slides: https://unipiit-my.sharepoint.com/:p:/g/personal/a_lombardi19_studenti_unipi_it/IQCHOmwkv414SIZrt2qiVYwgAU55n8v8r-L-voPIKlC1ESQ?e=gYYjdG
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

@@ -3,7 +3,7 @@ title: "Conversational Implicatures Through the Lens of LLMs"
 authors:
 - admin
 - Alessandro Lenci
-date: ""
+date: "2026-05-13"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,9 +31,9 @@ tags:
 
 featured: true
 
-links:
-- name: Preprint
-  url: ''
+# links:
+# - name: 
+#   url: ''
 url_pdf: 'https://unipiit-my.sharepoint.com/:b:/g/personal/a_lombardi19_studenti_unipi_it/IQB5QoTGhrRbTYKR9pQi9VxEAXNnOsn0SOpXfXJrvBZ59Og?e=kp8Leb'
 url_code: ''
 url_dataset: ''
