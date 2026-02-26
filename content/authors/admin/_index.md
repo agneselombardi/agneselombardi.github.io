@@ -20,10 +20,14 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD in Computational Psycholinguistics
+role: PostDoc in Computational Psycholinguistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: IUSS Pavia
+    url: https://www.iusspavia.it/it
+  - name: NepLab
+    url: https://www.neplab.it/
   - name: University of Pisa
     url: https://dilles.fileli.unipi.it/
   - name: CoLing Laboratory
@@ -55,7 +59,7 @@ education:
     date_start: 2022-11-02
     date_end: ''
     summary: |
-      Thesis: Theory of Mind in Large Language Models.
+      Thesis: Do Machines have a (Theory of) Mind? An investigation across Large Language Models and Humans
       
       Supervisors: Alessandro Lenci and Domenica Romagno. 
       
@@ -170,7 +174,7 @@ languages:
 
 ## About Me
 
-I am currently a researcher at IUSS Pavia and a member of the NepLab (PI: Valentina Bambini).
+I am currently a PostDoc researcher at IUSS Pavia and a member of the NepLab (PI: Valentina Bambini).
 
 I completed my PhD at the Department of Philology, Literature, and Linguistics at the University of Pisa, where I was also a member of the CoLing Lab (I expect to be awarded the PhD title in May). 
 My doctoral research was supervised by Alessandro Lenci and Domenica Romagno. 
