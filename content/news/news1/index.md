@@ -4,7 +4,7 @@ summary: "Our work on speech markers and subjective experience of delusion was s
 date: 2026-03-31
 ---
 
-![Ginevra Martinelli presenting our work](IMG_1661.HEIC)
+![Ginevra Martinelli presenting our work](IMG_1661.jpg)
 
 I am very happy to have taken part in this work and to see our poster **“Speech markers and subjective experience of delusion”** presented at [Discourse in Psychosis 2026](https://www.gomry.com/discourse-in-psychosis-2026) on **30–31 March 2026**.
 
