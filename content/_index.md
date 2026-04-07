@@ -79,8 +79,6 @@ sections:
       title: Recent News
       subtitle: ''
       text: ''
-       # Page type to display. E.g. post, talk, publication...
-      page_type: post
   #     # Choose how many pages you would like to display (0 = all pages)
       count: 5
   #     # Filter on criteria
@@ -104,16 +102,6 @@ sections:
   #     # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
