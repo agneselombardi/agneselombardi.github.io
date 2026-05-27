@@ -56,7 +56,7 @@ links:
 # url_code: 'https://github.com'
 url_pdf: ''
 # url_slides: 'https://slideshare.net'
-# url_video: 'https://youtube.com'
+url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

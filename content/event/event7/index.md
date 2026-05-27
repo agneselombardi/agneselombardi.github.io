@@ -60,7 +60,7 @@ url_pdf: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-url_slides:
+url_slides: "https://unipiit-my.sharepoint.com/:p:/g/personal/a_lombardi19_studenti_unipi_it/IQDjv4rdTkJ3S53TgatrKp_CAe7p8kCiAoH_-6ppd8nuu54?e=Mec1rH&nav=eyJzSWQiOjI3MCwiY0lkIjoxOTMxMTA4NjYzfQ"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

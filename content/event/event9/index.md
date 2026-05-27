@@ -50,7 +50,7 @@ links:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
-url_pdf: ''
+url_pdf: 'https://unipiit-my.sharepoint.com/:b:/g/personal/a_lombardi19_studenti_unipi_it/IQDj_QF5QXDRQZNbV-8GGGLrAQy48kN89Kejdm7arXBcjTc?e=iptAGz'
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
 
