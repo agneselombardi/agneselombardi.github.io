@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My primary research focus lies in computational psycholinguistics, with a strong theoretical foundation in semantics and its interface with both morphosyntax and pragmatics. From a computational perspective, I investigate Theory of Mind (ToM)-like abilities in large language models (LLMs), while also exploring other aspects of pragmatic competence.
+        My primary research focus lies in computational psycholinguistics, with a strong theoretical foundation in semantics and pragmatics. From a computational perspective, I investigate Theory of Mind (ToM)-like abilities in large language models (LLMs), while also exploring other aspects of pragmatic competence.
 
         I am deeply engaged in the ongoing debate on cognitive and emerging abilities in LLMs, advocating for the integration of cognitive science, psycholinguistics, and computational linguistics to advance all three fields. I believe that insights from cognitive science and psycholinguistics can help develop more fine-grained computational analyses of language models.
 
-        My broader interests include language processing theories, neural-symbolic networks, grounding, pLoT, experimental pragmatics, mechanistic interpretability, and LLM interpretability.
+        My broader interests include language processing theories, neural alignment, grounding, experimental pragmatics, mechanistic interpretability, and LLM interpretability.
     design:
       columns: '1'
   - block: collection

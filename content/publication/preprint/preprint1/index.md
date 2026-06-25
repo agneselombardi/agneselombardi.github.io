@@ -3,7 +3,7 @@ title: "What Do You Mean? Exploring the Alleged Theory of Mind Abilities of Larg
 authors:
 - admin
 - Alessandro Lenci
-date: 2025-04-01
+date: 2026-06-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PostDoc in Computational Psycholinguistics
+role: PostDoc in Computational Neuro-Psycholinguistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -28,8 +28,6 @@ organizations:
     url: https://www.iusspavia.it/it
   - name: NepLab
     url: https://www.neplab.it/
-  - name: University of Pisa
-    url: https://dilles.fileli.unipi.it/
   - name: CoLing Laboratory
     url: https://colinglab.fileli.unipi.it/
 
@@ -37,7 +35,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:agnese.lombardi@phd.unipi.it'
+    url: 'mailto:agnese.lombardi@iusspavia.it'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/AgneseLombardi
@@ -50,7 +48,7 @@ profiles:
 
 interests:
   - Computational Linguistics
-  - Psycholinguistics
+  - Psycholinguistics and Neurolinguistics
   - Artificial Intelligence
 
 education:
@@ -176,8 +174,7 @@ languages:
 
 I am currently a PostDoc researcher at IUSS Pavia and a member of the NepLab (PI: Valentina Bambini).
 
-I completed my PhD at the Department of Philology, Literature, and Linguistics at the University of Pisa, where I was also a member of the CoLing Lab (I expect to be awarded the PhD title in May). 
-My doctoral research was supervised by Alessandro Lenci and Domenica Romagno. 
+I completed my PhD at the Department of Philology, Literature, and Linguistics at the University of Pisa, where I was also a member of the CoLing Lab.  My doctoral research was supervised by Alessandro Lenci. 
 
 During my PhD, I was a visiting researcher at the University of Texas at Austin, working under the supervision of Kyle Mahowald.
 
