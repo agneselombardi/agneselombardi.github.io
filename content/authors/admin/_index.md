@@ -55,7 +55,7 @@ education:
   - area: PhD Computational Psycholinguistics
     institution: University of Pisa
     date_start: 2022-11-02
-    date_end: 2026-05-18 (awarded)
+    date_end: 2026-05-18
     summary: |
       Thesis: Do Machines have a (Theory of) Mind? An investigation across Large Language Models and Humans
       
