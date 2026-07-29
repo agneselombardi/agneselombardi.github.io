@@ -1,5 +1,5 @@
 ---
-title: Large Language Models Encode Theory-of-Mind Individual Differences: Evidence from Neural Alignment During Metaphor Comprehension
+title: Large Language Models Encode Theory-of-Mind Individual Differences. Evidence from Neural Alignment During Metaphor Comprehension
 
 event: Xprag-IT 2026
 event_url: 'https://xpragit2026.weebly.com/'
