@@ -1,9 +1,8 @@
 ---
-title: "What Do You Mean? Exploring the Alleged Theory of Mind Abilities of Large Language Models"
+title: "Do Machines have a (Theory of) Mind? An investigation across Large Language Models and Humans"
 authors:
 - admin
-- Alessandro Lenci
-date: 2026-06-01
+date: 2026-05-18
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -12,32 +11,34 @@ publishDate: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["thesis"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: This study explores the capacity of Large Language Models (LLMs) to perform tasks requiring Theory of Mind (ToM), a critical component of pragmatic language understanding. Although previous work suggests that LLMs may exhibit emergent ToM abilities, this research examines whether such capabilities genuinely involve reasoning about beliefs or merely reflect the reliance on shallow statistical cues. Through a series of controlled experiments featuring indirect speech acts and verbal irony, we assess how belief contexts influence LLM interpretations. The results reveal that, although LLMs occasionally succeed in decoding communicative intentions, their performance is not attributable to genuine ToM reasoning. This work underscores the limitations of LLMs in simulating human-like ToM and offers insight into their interpretive biases, contributing to a deeper understanding of their linguistic capabilities.
+abstract: This thesis investigates whether Large Language Models (LLMs) possess a form of Theory of Mind (ToM), the capacity to infer the thoughts, desires, and intentions of others. The research combines computational and psycholinguistic methods, comparing model performance with that of human speakers through multiple evaluation techniques, while critically addressing the methodological and theoretical challenges that characterize this field. The work is organized along two main axes -- on one hand, the direct evaluation of LLMs' pragmatic competence, with particular focus on indirect speech acts, conversational implicatures, and irony; on the other, the study of how models' internal representations align with human neural signals during the comprehension of figurative language.
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags:
-- Large Language Models
-- Theory of Mind
+- ToM
+- pragmatics
+- LLMs
+- interpretability
 
 featured: true
 
 links:
-- name: Preprint
-  url: 'https://unipiit-my.sharepoint.com/:b:/g/personal/a_lombardi19_studenti_unipi_it/EaNCDedBxMdBkcqLN3rjLD8BDcRa8gvMRnNQKyLLcK8llQ?e=iyHu0r'
+- name: PDF
+  url: 'https://unipiit-my.sharepoint.com/:b:/g/personal/a_lombardi19_studenti_unipi_it/IQDJJDBVISeOQqeYzXJAJYvmAXcggdpfzS9a3qdWUnbpv8w?e=5zaOYV'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://unipiit-my.sharepoint.com/:p:/g/personal/a_lombardi19_studenti_unipi_it/IQAsTdQF5SQnSbCxjKGp2zr9AWvqCJsmTX6ZQYfksJvQuAU?e=fSvyTy'
 url_source: ''
 url_video: ''
 

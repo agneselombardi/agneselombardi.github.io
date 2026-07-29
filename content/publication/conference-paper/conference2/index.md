@@ -33,7 +33,8 @@ abstract: "Language is fundamental to human cooperation, facilitating not only t
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Theory of Mind, Concordia, GABM
+  - ToM
+  - agents
 
 # Display this page in the Featured widget?
 featured: false

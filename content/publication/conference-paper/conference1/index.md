@@ -33,7 +33,7 @@ abstract: The goal of this study is to investigate whether a Transformer-based n
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - BERT models
+  - semantics
 
 # Display this page in the Featured widget?
 featured: false

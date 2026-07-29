@@ -1,11 +1,9 @@
 ---
-title: "LLMs and people both learn to form conventions – just not with each other"
+title: "What Do You Mean? Exploring the Alleged Theory of Mind Abilities of Large Language Models"
 authors:
-- Cameron R. Jones
 - admin
-- Kyle Mahowald
-- Benjamin K. Bergen
-date: 2026-01-01
+- Alessandro Lenci
+date: 2026-06-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,27 +12,27 @@ publishDate: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["paper-conference"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: Humans align to one another in conversation – adopting shared conventions that ease communication. We test whether LLMs form the same kinds of conventions in a multimodal communication game. Both humans and LLMs display evidence of convention-formation (increasing the accuracy and consistency of their turns while decreasing their length) when communicating in same-type dyads (humans with humans, AI with AI). However, heterogenous human-AI pairs fail—suggesting differences in communicative tendencies. In Experiment 2, we ask whether LLMs can be induced to behave more like human conversants, by prompting them to produce superficially humanlike behavior. While the length of their messages matches that of human pairs, accuracy and lexical overlap in human-LLM pairs continues to lag behind that of both human-human and AI-AI pairs. These results suggest that conversational alignment requires more than just the ability to mimic previous interactions, but also shared interpretative biases toward the meanings that are conveyed.
+abstract: This study explores the capacity of Large Language Models (LLMs) to perform tasks requiring Theory of Mind (ToM), a critical component of pragmatic language understanding. Although previous work suggests that LLMs may exhibit emergent ToM abilities, this research examines whether such capabilities genuinely involve reasoning about beliefs or merely reflect the reliance on shallow statistical cues. Through a series of controlled experiments featuring indirect speech acts and verbal irony, we assess how belief contexts influence LLM interpretations. The results reveal that, although LLMs occasionally succeed in decoding communicative intentions, their performance is not attributable to genuine ToM reasoning. This work underscores the limitations of LLMs in simulating human-like ToM and offers insight into their interpretive biases, contributing to a deeper understanding of their linguistic capabilities.
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags:
-- conversation
-- grounding
 - LLMs
+- ToM
+- interpretability
 
 featured: true
 
 links:
 - name: Preprint
-  url: 'https://www.arxiv.org/pdf/2602.08208'
+  url: 'https://unipiit-my.sharepoint.com/:b:/g/personal/a_lombardi19_studenti_unipi_it/IQBg0dh2dxKaSo_97-qRIuAcAd4YvU4oJ1Zoc5KSmCUc2jo?e=21c3tg'
 url_pdf: ''
 url_code: ''
 url_dataset: ''

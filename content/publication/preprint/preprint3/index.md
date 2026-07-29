@@ -1,9 +1,9 @@
 ---
-title: "ToM in LLM is not ToM, but a Pragmatic Effect"
+title: "The Linguistic History of (In)Fertility: A Diachronic and Cross-Genre Corpus Study"
 authors:
 - admin
-- Alessandro Lenci
-date: 2026-01-01
+- Valentina Bambini
+date: 2026-06-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -12,30 +12,32 @@ publishDate: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["conference paper"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: Instruction tuning has been shown to improve large language models’ performance on pragmatic tasks, and recent work suggests that additional training can also enhance Theory of Mind (ToM)–like abilities. However, existing studies rarely examine how different alignment techniques and training data contribute to ToM-related behavior in language models. In this work, we investigate the respective roles of instruction tuning and preference learning in shaping pragmatic and ToM abilities. Using the LLaMA 3 8B architecture, we fine-tune models on either pragmatic or ToM-specific data and subsequently align them via Direct Preference Optimization. We evaluate the resulting models on benchmarks targeting both pragmatics and ToM. Our results show that pragmatic training can substantially improve ToM performance even without explicit belief-related supervision, and that instruction tuning plays a central rolei nmodel alignment. These findings clarify the relationship between pragmatics and ToM in large language models.
+abstract: Fertility and infertility constitute a lexical and conceptual domain that remains largely underinvestigated in corpus linguistics and computational language studies. No systematic analysis has yet examined diachronic variation in fertility-related vocabulary or interpreted language across different domain. This paper addresses that gap by introducing FerTime, a novel diachronic corpus spanning fertility-related documents from 1770 to the present, drawn from both non-clinical sources (historical and contemporary newspapers) and clinical sources (biomedical literature and medical reports). The cross-domain design enables systematic comparison of how fertility language is constructed across registers and over time. We analyze six target terms, barren, sterile, infertile, childless, fertility, and fecundity, along five dimensions - semantic shift, collocational profile, sentiment polarity and gender co-occurrence. Results show that the medicalization of fertility vocabulary is a historically recent process, that the feminization of this lexical field is a modern phenomenon largely absent from historical usage, and that clinical and non-clinical registers diverge systematically in their affective framing of infertility. FerTime is released as an open resource to support future research on fertility language, diachronic lexical change, and the development of best practices for computational stigma detection.
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags:
-- ToM
-- pragmatics
-- instruction-tuning
+- diachronic
+- corpus study
+- distributional semantics
+- clinical domain
+
 
 featured: true
 
 links:
 - name: Preprint
-  url: 'https://unipiit-my.sharepoint.com/:b:/g/personal/a_lombardi19_studenti_unipi_it/IQDSqEWFC9A_T4Ds5ns_tczlAR5ZEMEjoX0158jWi3Dim0M?e=pLwUhh'
+  url: 'https://unipiit-my.sharepoint.com/:b:/g/personal/a_lombardi19_studenti_unipi_it/IQAvBvzf_-bwTZDz5tjCtkrHAYl2FGF7DKCTMrhZQt_tRHM?e=YB7b0I'
 url_pdf: ''
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://huggingface.co/datasets/NepLab-IUSS/fertility-corpus'
 url_poster: ''
 url_project: ''
 url_slides: ''

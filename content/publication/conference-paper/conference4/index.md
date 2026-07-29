@@ -1,10 +1,8 @@
 ---
-title: "LLMs and people both learn to form conventions – just not with each other"
+title: "ToM in LLM is not ToM, but a Pragmatic Effect"
 authors:
-- Cameron R. Jones
 - admin
-- Kyle Mahowald
-- Benjamin K. Bergen
+- Alessandro Lenci
 date: 2026-01-01
 doi: ""
 
@@ -17,28 +15,28 @@ publishDate: ""
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Proceedings of the 15th Workshop on Cognitive Modeling and Computational Linguistics"
 publication_short: ""
 
-abstract: Humans align to one another in conversation – adopting shared conventions that ease communication. We test whether LLMs form the same kinds of conventions in a multimodal communication game. Both humans and LLMs display evidence of convention-formation (increasing the accuracy and consistency of their turns while decreasing their length) when communicating in same-type dyads (humans with humans, AI with AI). However, heterogenous human-AI pairs fail—suggesting differences in communicative tendencies. In Experiment 2, we ask whether LLMs can be induced to behave more like human conversants, by prompting them to produce superficially humanlike behavior. While the length of their messages matches that of human pairs, accuracy and lexical overlap in human-LLM pairs continues to lag behind that of both human-human and AI-AI pairs. These results suggest that conversational alignment requires more than just the ability to mimic previous interactions, but also shared interpretative biases toward the meanings that are conveyed.
+abstract: Instruction tuning has been shown to improve large language models’ performance on pragmatic tasks, and recent work suggests that additional training can also enhance Theory of Mind (ToM)–like abilities. However, existing studies rarely examine how different alignment techniques and training data contribute to ToM-related behavior in language models. In this work, we investigate the respective roles of instruction tuning and preference learning in shaping pragmatic and ToM abilities. Using the LLaMA 3 8B architecture, we fine-tune models on either pragmatic or ToM-specific data and subsequently align them via Direct Preference Optimization. We evaluate the resulting models on benchmarks targeting both pragmatics and ToM. Our results show that pragmatic training can substantially improve ToM performance even without explicit belief-related supervision, and that instruction tuning plays a central rolei nmodel alignment. These findings clarify the relationship between pragmatics and ToM in large language models.
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags:
-- conversation
-- grounding
+- ToM
+- pragmatics
 - LLMs
+- interpretability
 
 featured: true
 
 links:
-- name: Preprint
-  url: 'https://www.arxiv.org/pdf/2602.08208'
-url_pdf: ''
+
+url_pdf: 'http://www.lrec-conf.org/proceedings/lrec2026/workshops/cmcl/pdf/2026.cmcl-1.4.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://unipiit-my.sharepoint.com/:b:/g/personal/a_lombardi19_studenti_unipi_it/IQDj_QF5QXDRQZNbV-8GGGLrAQy48kN89Kejdm7arXBcjTc?e=ZSPV2T'
 url_project: ''
 url_slides: ''
 url_source: ''
