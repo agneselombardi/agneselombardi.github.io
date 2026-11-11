@@ -51,7 +51,7 @@ links:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
-url_pdf: 'https://xpragit2026.weebly.com/'
+# url_pdf: 'https://xpragit2026.weebly.com/'
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
 
@@ -61,7 +61,7 @@ url_pdf: 'https://xpragit2026.weebly.com/'
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-url_slides: 
+url_slides: https://unipiit-my.sharepoint.com/:p:/g/personal/a_lombardi19_studenti_unipi_it/IQD4LsyUcbDNToeGYaBbUaf-AQrHOmiCPJDcLM2BRAx3Ha4?e=o4csFV
 
 
 # Projects (optional).

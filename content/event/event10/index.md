@@ -43,7 +43,7 @@ links:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
-url_pdf: 'https://clic2026.unipa.it/'
+# url_pdf: 'https://clic2026.unipa.it/'
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
 
@@ -53,7 +53,7 @@ url_pdf: 'https://clic2026.unipa.it/'
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-url_slides: 
+url_slides: https://unipiit-my.sharepoint.com/:p:/g/personal/a_lombardi19_studenti_unipi_it/IQAtUNq3uFKMTbpFv2tYjYdVAdPLRfA6cWgsC4T6va-OLrc?e=zzSWVB
 
 
 # Projects (optional).

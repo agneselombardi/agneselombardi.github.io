@@ -17,8 +17,8 @@ publishDate: ""
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Proceedings of the 48th Annual Meeting of the Cognitive Science Society"
+publication_short: "CogSci 2026"
 
 abstract: Humans align to one another in conversation – adopting shared conventions that ease communication. We test whether LLMs form the same kinds of conventions in a multimodal communication game. Both humans and LLMs display evidence of convention-formation (increasing the accuracy and consistency of their turns while decreasing their length) when communicating in same-type dyads (humans with humans, AI with AI). However, heterogenous human-AI pairs fail—suggesting differences in communicative tendencies. In Experiment 2, we ask whether LLMs can be induced to behave more like human conversants, by prompting them to produce superficially humanlike behavior. While the length of their messages matches that of human pairs, accuracy and lexical overlap in human-LLM pairs continues to lag behind that of both human-human and AI-AI pairs. These results suggest that conversational alignment requires more than just the ability to mimic previous interactions, but also shared interpretative biases toward the meanings that are conveyed.
 
@@ -33,7 +33,7 @@ tags:
 featured: true
 
 links:
-- name: Preprint
+- name: Arxiv
   url: 'https://www.arxiv.org/pdf/2602.08208'
 url_pdf: ''
 url_code: ''

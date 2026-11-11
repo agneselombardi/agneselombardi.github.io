@@ -15,8 +15,8 @@ publishDate: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Transactions of the Association for Computational Linguistics"
+publication_short: "TACL"
 
 abstract: This study explores the capacity of Large Language Models (LLMs) to perform tasks requiring Theory of Mind (ToM), a critical component of pragmatic language understanding. Although previous work suggests that LLMs may exhibit emergent ToM abilities, this research examines whether such capabilities genuinely involve reasoning about beliefs or merely reflect the reliance on shallow statistical cues. Through a series of controlled experiments featuring indirect speech acts and verbal irony, we assess how belief contexts influence LLM interpretations. The results reveal that, although LLMs occasionally succeed in decoding communicative intentions, their performance is not attributable to genuine ToM reasoning. This work underscores the limitations of LLMs in simulating human-like ToM and offers insight into their interpretive biases, contributing to a deeper understanding of their linguistic capabilities.
 
@@ -31,10 +31,8 @@ tags:
 featured: true
 
 links:
-- name: Preprint
-  url: 'https://unipiit-my.sharepoint.com/:b:/g/personal/a_lombardi19_studenti_unipi_it/IQBg0dh2dxKaSo_97-qRIuAcAd4YvU4oJ1Zoc5KSmCUc2jo?e=21c3tg'
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://aclanthology.org/2026.tacl-1.111.pdf'
+url_code: 'https://github.com/agneselombardi/Alleged_tom'
 url_dataset: ''
 url_poster: ''
 url_project: ''

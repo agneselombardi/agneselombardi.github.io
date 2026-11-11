@@ -53,7 +53,7 @@ links:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
-url_pdf: 'https://2026.neurolang.org/'
+# url_pdf: 'https://2026.neurolang.org/'
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
 
@@ -62,8 +62,8 @@ url_pdf: 'https://2026.neurolang.org/'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
-url_slides: 
+# slides: ""
+# url_slides: 
 
 
 # Projects (optional).
